@@ -1,0 +1,248 @@
+{
+    "de_dust2": [
+        {
+            "name": "CT Meio",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -248,
+                2149,
+                -127
+            ],
+            "size": {
+                "min": [
+                    -10,
+                    -160,
+                    0
+                ],
+                "max": [
+                    10,
+                    160,
+                    160
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -239,
+                        2062,
+                        -74
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -239,
+                        2196,
+                        -74
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CT Varanda",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                381,
+                1802,
+                96
+            ],
+            "size": {
+                "min": [
+                    -130,
+                    -10,
+                    0
+                ],
+                "max": [
+                    130,
+                    10,
+                    180
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "origin": [
+                        446,
+                        1802,
+                        150
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "origin": [
+                        323,
+                        1802,
+                        150
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TR Spawn",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -1099,
+                -824,
+                128
+            ],
+            "size": {
+                "min": [
+                    -10,
+                    -200,
+                    0
+                ],
+                "max": [
+                    10,
+                    200,
+                    220
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -961,
+                        182
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -827,
+                        182
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        90,
+                        0
+                    ],
+                    "origin": [
+                        -1098,
+                        -693,
+                        182
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TR Meio",
+            "when": {
+                "rule": "lower_than",
+                "argument": 10
+            },
+            "origin": [
+                -320,
+                679,
+                0
+            ],
+            "size": {
+                "min": [
+                    -190,
+                    -10,
+                    0
+                ],
+                "max": [
+                    190,
+                    10,
+                    120
+                ]
+            },
+            "objects": [
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "origin": [
+                        -446,
+                        678,
+                        54
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "origin": [
+                        -314,
+                        678,
+                        54
+                    ]
+                },
+                {
+                    "name": "Big Grid",
+                    "mdl": "models\/grid_big.mdl",
+                    "angles": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "origin": [
+                        -194,
+                        679,
+                        54
+                    ]
+                }
+            ]
+        }
+    ]
+}
